@@ -8,11 +8,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
-### ⚒️ Setup Wiki - Kurulum [Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/300/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
-
-##
-
 ## F.A.Q
 Answer a few frequently asked questions;
 ### Can you read my messages?
